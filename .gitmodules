@@ -7,3 +7,6 @@
 [submodule "Todo/lib/forge-std"]
 	path = Todo/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "SchoolManagement/lib/forge-std"]
+	path = SchoolManagement/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
